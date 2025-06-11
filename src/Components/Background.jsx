@@ -2,6 +2,6 @@
 
 export default function Background() {
     return (
-        <img src={backGroundImage} alt="Background image of Eminem."/>
+        <img className="background-image" src={backGroundImage} alt="Background image of Eminem."/>
     )
 }
